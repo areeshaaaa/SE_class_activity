@@ -1,1 +1,6 @@
 print('hello world')
+print('rijaa\'s edit')
+print('rijaa\'s change one')
+print('rijaa\'s change two')
+print('rijaa\'s change two')
+print('rijaa\'s change three')
